@@ -1,0 +1,32 @@
+1) - operators : *,-,/,+
+   - values : hello,-88.8,5
+2) "spam" - string
+    spam - variable 
+3) boolean, integer , string
+4) bacon = 21 
+5) - console.log('spam' + 'spamspam') = "spamspamspam"
+   - console.log(spam*3) = spam spam spam
+6) let number = Number(prompt("input the number"))
+     if(number==1){
+       console.log("hello world")     
+      }
+     else if(number==2){
+    console.log("howdy")
+      } 
+      else {
+       console.log("greetings")  
+       } 
+
+7) a) C should be small, js is case sensitive language
+   b) consolle.log shoould be all small 
+   c) "Log" - l should be capital 
+   d) there should be a dot in the middle of console and log 
+
+8 a) syntax error 
+  b) syntax error
+  c) syntax error 
+  d) hello world! 
+  e) nothing 
+  f) Hello World!
+  g) hello world, welcome to javascript 
+  e) nothing 
